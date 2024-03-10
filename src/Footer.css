@@ -1,0 +1,22 @@
+.container-fluid{
+background-color:black;
+padding:40px 0;
+height:40%;
+margin:10px 0px -20px 0px;
+
+}
+.control-label{
+display: flex;
+flex-direction:row;
+justify-items:start;
+align-items: start;
+
+
+
+}
+.btn-success{
+margin:5px;
+width:40vw;
+
+
+}

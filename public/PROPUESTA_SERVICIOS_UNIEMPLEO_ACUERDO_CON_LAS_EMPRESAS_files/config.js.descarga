@@ -1,0 +1,6 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C90Q3RVRAOSJ17FRAMOG").setAdvancedMatchingAvailableProperties({"email":true,"phone_number":true,"auto_email":true,"auto_phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C90Q3RVRAOSJ17FRAMOG").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C90Q3RVRAOSJ17FRAMOG").setPixelInfo({status: 0, name: "pdfFiller Events", advertiserID: "7078353112787927042", setupMode: 1, partner: "", is_onsite: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("pdffiller.com");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
+window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie && window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie(true);
